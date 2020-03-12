@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37985" started-at="2020-03-12T10:15:20Z" finished-at="2020-03-12T10:15:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37985" started-at="2020-03-12T10:15:20Z" finished-at="2020-03-12T10:15:58Z">
+      <class name="com.test.ties.TestCases.SearchTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="startReport" is-config="true" duration-ms="1656" started-at="2020-03-12T15:45:18Z" finished-at="2020-03-12T15:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="Test_AddingSingleTie()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="Test_AddingSingleTie" duration-ms="19678" started-at="2020-03-12T15:45:20Z" finished-at="2020-03-12T15:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_AddingSingleTie -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="getResult" is-config="true" duration-ms="2" started-at="2020-03-12T15:45:40Z" finished-at="2020-03-12T15:45:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_AddingSingleTie status=SUCCESS method=SearchTest.Test_AddingSingleTie()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="Test_AddingTieWithQunatity()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="Test_AddingTieWithQunatity" duration-ms="15578" started-at="2020-03-12T15:45:40Z" finished-at="2020-03-12T15:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_AddingTieWithQunatity -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="teardown" is-config="true" duration-ms="2318" started-at="2020-03-12T15:45:55Z" finished-at="2020-03-12T15:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-12T15:45:55Z" finished-at="2020-03-12T15:45:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_AddingTieWithQunatity status=SUCCESS method=SearchTest.Test_AddingTieWithQunatity()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.test.ties.TestCases.SearchTest@1349883]" name="endReport" is-config="true" duration-ms="349" started-at="2020-03-12T15:45:58Z" finished-at="2020-03-12T15:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.test.ties.TestCases.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
